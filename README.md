@@ -4,6 +4,8 @@ I decided to try using JetPack Compose to build my first Android app.
 
 This app is a simple Flashcard application, where the user can add cards to a set (collection), and use it for studying and memorising concepts.
 
+[Software Demo Video](https://youtu.be/Wg2e2eb_OaM)
+
 # Development Environment
 
 Android Studio
@@ -14,7 +16,6 @@ JetPack Compose
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Kotlin Introduction](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)
 * [Build your First App Codelab - Android Developer](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
 * [Android Navigation Codelab - Android Developer](https://developer.android.com/codelabs/basic-android-kotlin-compose-navigation)
