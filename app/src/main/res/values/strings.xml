@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flashcard App</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="collection_saved">Collection Saved</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="card_saved">Card Saved</string>
+    <string name="view_collection">Collections</string>
+    <string name="collection_empty">Collection Empty</string>
+    <string name="choose_collection">Choose a collection</string>
+    <string name="no_collections">No collections added</string>
+    <string name="add_collection">Add a Collection</string>
+    <string name="add_card">Add Card</string>
+    <string name="card_word">Word</string>
+    <string name="card_definition">Definition</string>
+    <string name="back_button">Back button</string>
+    <string name="save_collection">Save Collection</string>
+</resources>
